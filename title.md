@@ -1,1 +1,1 @@
-Double click to edit the title
+content of title.md
