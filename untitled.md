@@ -10,5 +10,5 @@ qwer adsf
 
 <script>alert(1)</script>
 
-<img onerror="alert(1)" src="not-img" alt="asd">
+<img onerror="alert(1)" src="not-img">
 
