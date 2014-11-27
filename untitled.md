@@ -6,5 +6,9 @@ asdfwqer
 
 zxcv asdf 
 
-qwer adsf 
+qwer adsf
+
+<script>alert(1)</script>
+
+<img onerror="alert(1)" src="not-img" alt="asd">
 
