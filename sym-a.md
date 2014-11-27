@@ -1,1 +1,1 @@
-/etc/fstab
+.git/config
